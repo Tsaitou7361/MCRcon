@@ -19,6 +19,7 @@ rcon-port=25575
 
 
 ## Starting
+* Config file is in `%localappdata%\Programs\mcrcon-win-2.0\config.yml`
 * Login with server ip and rcon password, and then press connect.
 > Pro Hint: You can also press connect with Enter
 
