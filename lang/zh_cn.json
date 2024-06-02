@@ -1,0 +1,14 @@
+{
+  "login.title": "MC远端控制台 登入",
+  "login.host": "主机",
+  "login.port": "连接埠",
+  "login.password": "密码",
+  "login.connect": "连接",
+  "login.clear": "清除",
+  "global.error": "发生错误",
+  "manager.title": "MC远端控制台",
+  "manager.command": "命令",
+  "manager.send": "发送",
+  "manager.up": " \u2191 ",
+  "manager.down": " \u2193 "
+}

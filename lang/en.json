@@ -1,0 +1,14 @@
+{
+  "login.title": "MCRcon Login",
+  "login.host": "Host",
+  "login.port": "Port",
+  "login.password": "Password",
+  "login.connect": "Connect",
+  "login.clear": "Clear",
+  "global.error": "An Error Occurred",
+  "manager.title": "MCRcon",
+  "manager.command": "Command",
+  "manager.send": "Send",
+  "manager.up": " \u2191 ",
+  "manager.down": " \u2193 "
+}
